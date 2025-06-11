@@ -1,7 +1,7 @@
 # 🐾 Pet Center
 
 Pet Center is a web application for managing pets in shelters. It supports user authentication, pet adoption workflows, automatic parsing of animals from ss.lv, and media storage. <br>
-In the **backend** part, built using **ASP.NET Core**, **Entity Framework Core**, and **MongoDB**.
+In the **backend** part, built using **ASP.NET Core**, **Entity Framework Core**, and **MongoDB**. <br>
 In the **fontend** part, built using **React**, **HTML5, CSS**, **JavaScrypt**.
 
 ---
