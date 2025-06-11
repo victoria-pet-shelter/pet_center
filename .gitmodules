@@ -1,0 +1,6 @@
+[submodule "pet_shelter_back"]
+	path = pet_shelter_back
+	url = https://github.com/victoria-pet-shelter/pet_shelter_back.git
+[submodule "pet_shelter_front"]
+	path = pet_shelter_front
+	url = https://github.com/victoria-pet-shelter/pet_shelter_front.git
