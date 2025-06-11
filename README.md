@@ -1,4 +1,4 @@
-# 🐾 Pet Shelter Backend
+# 🐾 Pet Center
 
 Pet Shelter is a web application for managing pets in shelters. It supports user authentication, pet adoption workflows, automatic parsing of animals from ss.lv, and media storage. <br>
 This is the **backend** part, built using **ASP.NET Core**, **Entity Framework Core**, and **MongoDB**.
